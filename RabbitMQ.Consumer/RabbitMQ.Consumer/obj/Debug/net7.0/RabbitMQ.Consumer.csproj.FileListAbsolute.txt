@@ -1,0 +1,17 @@
+F:\SSL-DotNet\RabbitMQ.Consumer\RabbitMQ.Consumer\bin\Debug\net7.0\RabbitMQ.Consumer.exe
+F:\SSL-DotNet\RabbitMQ.Consumer\RabbitMQ.Consumer\bin\Debug\net7.0\RabbitMQ.Consumer.deps.json
+F:\SSL-DotNet\RabbitMQ.Consumer\RabbitMQ.Consumer\bin\Debug\net7.0\RabbitMQ.Consumer.runtimeconfig.json
+F:\SSL-DotNet\RabbitMQ.Consumer\RabbitMQ.Consumer\bin\Debug\net7.0\RabbitMQ.Consumer.dll
+F:\SSL-DotNet\RabbitMQ.Consumer\RabbitMQ.Consumer\bin\Debug\net7.0\RabbitMQ.Consumer.pdb
+F:\SSL-DotNet\RabbitMQ.Consumer\RabbitMQ.Consumer\bin\Debug\net7.0\RabbitMQ.Client.dll
+F:\SSL-DotNet\RabbitMQ.Consumer\RabbitMQ.Consumer\obj\Debug\net7.0\RabbitMQ.Consumer.csproj.AssemblyReference.cache
+F:\SSL-DotNet\RabbitMQ.Consumer\RabbitMQ.Consumer\obj\Debug\net7.0\RabbitMQ.Consumer.GeneratedMSBuildEditorConfig.editorconfig
+F:\SSL-DotNet\RabbitMQ.Consumer\RabbitMQ.Consumer\obj\Debug\net7.0\RabbitMQ.Consumer.AssemblyInfoInputs.cache
+F:\SSL-DotNet\RabbitMQ.Consumer\RabbitMQ.Consumer\obj\Debug\net7.0\RabbitMQ.Consumer.AssemblyInfo.cs
+F:\SSL-DotNet\RabbitMQ.Consumer\RabbitMQ.Consumer\obj\Debug\net7.0\RabbitMQ.Consumer.csproj.CoreCompileInputs.cache
+F:\SSL-DotNet\RabbitMQ.Consumer\RabbitMQ.Consumer\obj\Debug\net7.0\RabbitMQ.Consumer.csproj.CopyComplete
+F:\SSL-DotNet\RabbitMQ.Consumer\RabbitMQ.Consumer\obj\Debug\net7.0\RabbitMQ.Consumer.dll
+F:\SSL-DotNet\RabbitMQ.Consumer\RabbitMQ.Consumer\obj\Debug\net7.0\refint\RabbitMQ.Consumer.dll
+F:\SSL-DotNet\RabbitMQ.Consumer\RabbitMQ.Consumer\obj\Debug\net7.0\RabbitMQ.Consumer.pdb
+F:\SSL-DotNet\RabbitMQ.Consumer\RabbitMQ.Consumer\obj\Debug\net7.0\RabbitMQ.Consumer.genruntimeconfig.cache
+F:\SSL-DotNet\RabbitMQ.Consumer\RabbitMQ.Consumer\obj\Debug\net7.0\ref\RabbitMQ.Consumer.dll
