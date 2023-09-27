@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\SSL-DotNet\\RabbitMQ.Consumer\\RabbitMQ.Consumer\\RabbitMQ.Consumer.csproj": {}
+    "F:\\SSL-DotNet\\RabbitMQ\\RabbitMQ.Consumer\\RabbitMQ.Consumer\\RabbitMQ.Consumer.csproj": {}
   },
   "projects": {
-    "F:\\SSL-DotNet\\RabbitMQ.Consumer\\RabbitMQ.Consumer\\RabbitMQ.Consumer.csproj": {
+    "F:\\SSL-DotNet\\RabbitMQ\\RabbitMQ.Consumer\\RabbitMQ.Consumer\\RabbitMQ.Consumer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\SSL-DotNet\\RabbitMQ.Consumer\\RabbitMQ.Consumer\\RabbitMQ.Consumer.csproj",
+        "projectUniqueName": "F:\\SSL-DotNet\\RabbitMQ\\RabbitMQ.Consumer\\RabbitMQ.Consumer\\RabbitMQ.Consumer.csproj",
         "projectName": "RabbitMQ.Consumer",
-        "projectPath": "F:\\SSL-DotNet\\RabbitMQ.Consumer\\RabbitMQ.Consumer\\RabbitMQ.Consumer.csproj",
+        "projectPath": "F:\\SSL-DotNet\\RabbitMQ\\RabbitMQ.Consumer\\RabbitMQ.Consumer\\RabbitMQ.Consumer.csproj",
         "packagesPath": "C:\\Users\\sanja\\.nuget\\packages\\",
-        "outputPath": "F:\\SSL-DotNet\\RabbitMQ.Consumer\\RabbitMQ.Consumer\\obj\\",
+        "outputPath": "F:\\SSL-DotNet\\RabbitMQ\\RabbitMQ.Consumer\\RabbitMQ.Consumer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sanja\\AppData\\Roaming\\NuGet\\NuGet.Config",

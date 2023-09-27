@@ -1,8 +1,5 @@
-﻿using Newtonsoft.Json;
-using RabbitMQ.Client;
+﻿using RabbitMQ.Client;
 using RabbitMQ.Producer;
-using System.Text;
-
 public static class Program
 {
     static void Main(string[] args)
@@ -13,6 +10,7 @@ public static class Program
         };
         using var connection=factory.CreateConnection();
         using var channel = connection.CreateModel();
-       QueueProducer.Publish(channel);
+        //QueueProducer.Publish(channel);
+        DirectExchangePublisher.Publish(channel);
     }
 }

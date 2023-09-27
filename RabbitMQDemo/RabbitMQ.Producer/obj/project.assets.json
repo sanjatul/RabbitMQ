@@ -171,11 +171,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\SSL-DotNet\\RabbitMQDemo\\RabbitMQ.Producer\\RabbitMQ.Producer.csproj",
+      "projectUniqueName": "F:\\SSL-DotNet\\RabbitMQ\\RabbitMQDemo\\RabbitMQ.Producer\\RabbitMQ.Producer.csproj",
       "projectName": "RabbitMQ.Producer",
-      "projectPath": "F:\\SSL-DotNet\\RabbitMQDemo\\RabbitMQ.Producer\\RabbitMQ.Producer.csproj",
+      "projectPath": "F:\\SSL-DotNet\\RabbitMQ\\RabbitMQDemo\\RabbitMQ.Producer\\RabbitMQ.Producer.csproj",
       "packagesPath": "C:\\Users\\sanja\\.nuget\\packages\\",
-      "outputPath": "F:\\SSL-DotNet\\RabbitMQDemo\\RabbitMQ.Producer\\obj\\",
+      "outputPath": "F:\\SSL-DotNet\\RabbitMQ\\RabbitMQDemo\\RabbitMQ.Producer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sanja\\AppData\\Roaming\\NuGet\\NuGet.Config",
