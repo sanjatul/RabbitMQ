@@ -14,6 +14,7 @@ public static class Program
         using var connection = factory.CreateConnection();
         using var channel = connection.CreateModel();
        // QueueConsumer.Consume(channel);
-        DirectExchangeConsumer.Consume(channel);
+       // DirectExchangeConsumer.Consume(channel);
+        TopicExchangeConsumer.Consume(channel);
     }
 }
