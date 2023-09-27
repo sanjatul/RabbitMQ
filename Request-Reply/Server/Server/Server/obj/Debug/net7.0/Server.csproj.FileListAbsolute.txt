@@ -1,0 +1,17 @@
+F:\SSL-DotNet\RabbitMQ\Request-Reply\Server\Server\Server\bin\Debug\net7.0\Server.exe
+F:\SSL-DotNet\RabbitMQ\Request-Reply\Server\Server\Server\bin\Debug\net7.0\Server.deps.json
+F:\SSL-DotNet\RabbitMQ\Request-Reply\Server\Server\Server\bin\Debug\net7.0\Server.runtimeconfig.json
+F:\SSL-DotNet\RabbitMQ\Request-Reply\Server\Server\Server\bin\Debug\net7.0\Server.dll
+F:\SSL-DotNet\RabbitMQ\Request-Reply\Server\Server\Server\bin\Debug\net7.0\Server.pdb
+F:\SSL-DotNet\RabbitMQ\Request-Reply\Server\Server\Server\bin\Debug\net7.0\RabbitMQ.Client.dll
+F:\SSL-DotNet\RabbitMQ\Request-Reply\Server\Server\Server\obj\Debug\net7.0\Server.csproj.AssemblyReference.cache
+F:\SSL-DotNet\RabbitMQ\Request-Reply\Server\Server\Server\obj\Debug\net7.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+F:\SSL-DotNet\RabbitMQ\Request-Reply\Server\Server\Server\obj\Debug\net7.0\Server.AssemblyInfoInputs.cache
+F:\SSL-DotNet\RabbitMQ\Request-Reply\Server\Server\Server\obj\Debug\net7.0\Server.AssemblyInfo.cs
+F:\SSL-DotNet\RabbitMQ\Request-Reply\Server\Server\Server\obj\Debug\net7.0\Server.csproj.CoreCompileInputs.cache
+F:\SSL-DotNet\RabbitMQ\Request-Reply\Server\Server\Server\obj\Debug\net7.0\Server.csproj.CopyComplete
+F:\SSL-DotNet\RabbitMQ\Request-Reply\Server\Server\Server\obj\Debug\net7.0\Server.dll
+F:\SSL-DotNet\RabbitMQ\Request-Reply\Server\Server\Server\obj\Debug\net7.0\refint\Server.dll
+F:\SSL-DotNet\RabbitMQ\Request-Reply\Server\Server\Server\obj\Debug\net7.0\Server.pdb
+F:\SSL-DotNet\RabbitMQ\Request-Reply\Server\Server\Server\obj\Debug\net7.0\Server.genruntimeconfig.cache
+F:\SSL-DotNet\RabbitMQ\Request-Reply\Server\Server\Server\obj\Debug\net7.0\ref\Server.dll
