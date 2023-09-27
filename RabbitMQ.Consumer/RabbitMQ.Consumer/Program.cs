@@ -16,6 +16,7 @@ public static class Program
        // QueueConsumer.Consume(channel);
        // DirectExchangeConsumer.Consume(channel);
         //TopicExchangeConsumer.Consume(channel);
-        HeaderExchangeConsumer.Consume(channel);
+        //HeaderExchangeConsumer.Consume(channel);
+        FanoutExchangeConsumer.Consume(channel);
     }
 }
